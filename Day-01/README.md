@@ -12,5 +12,6 @@ Topics Covered:
 - Sort and Filter
 
 Practice:
-- Student Data formatting
-- Monthly Expenses data
+- Features Practice
+- Formatting Practice
+- Daily Expenses

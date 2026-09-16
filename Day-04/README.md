@@ -1,6 +1,6 @@
 # Day 04 - Excel VLOOKUP
 
-## Topics Covered
+### Topics Covered
 
 - VLOOKUP
 - VLOOKUP Syntax and Arguments
@@ -13,7 +13,7 @@
 - Product Data Lookup
 - Score to Grade Lookup
 
-## Practice
+### Practice
 
 The following concepts were practiced using practical datasets:
 
@@ -26,10 +26,10 @@ The following concepts were practiced using practical datasets:
 - Handling missing lookup values with IFERROR
 - Approximate match for score-based grades
 
-## Practice File
+### Practice File
 
 - `VLOOKUP Practice.xlsx`
 
-## Key Learning
+### Key Learning
 
 VLOOKUP is used to search for a value in the first column of a table and return a related value from another column in the same row.

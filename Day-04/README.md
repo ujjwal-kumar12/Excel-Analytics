@@ -32,4 +32,5 @@ The following concepts were practiced using practical datasets:
 
 ### Key Learning
 
+
 VLOOKUP is used to search for a value in the first column of a table and return a related value from another column in the same row.
